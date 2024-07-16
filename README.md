@@ -40,4 +40,4 @@ Particular attribution to @GreatStackDev's YouTube channel is the solid foundati
 
 ## Contact
 Erickson Figueroa - indetrd@gmail.com
-https://github.com/erickson-figueroa/figueroa-portfolio-website
+https://github.com/erickson-figueroa/figueroa-portfolio
