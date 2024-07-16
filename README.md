@@ -12,7 +12,7 @@ Welcome to the repository of the Figueroa Portfolio Website, a personal showcase
 - **Contact**: An easy-to-use form that visitors can use to get in touch with me directly, plus links to my professional social media profiles.
 
 ## Technologies Used
-
+- **HTML5**: For the basic structure and layout of the website.
 - **React.js**: Utilized for building the user interface with components and hooks for effective state management and reactivity.
 - **CSS3**: For custom styling and responsive design, ensuring a smooth experience on any device.
 - **Node.js**: Supports the backend processes of the portfolio.
